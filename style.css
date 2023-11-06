@@ -1,0 +1,23 @@
+body {
+	background-color:lightcyan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+	color: red;
+}
+h1{
+    color: cadetblue;
+}
+h3{
+    color: cadetblue;
+}
+h4{
+    color: cadetblue;
+}
+
+hr {
+    border-width: 3px; /* Độ dày của đường ngang */
+    border-color: #6A8D8F; /* Màu nền của đường ngang */
+    border-style: dashed; /* Kiểu nét đứt */
+}
